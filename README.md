@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Livro: A era digital">
     <link rel="stylesheet" href="estilo.css">
-    <title>Livro: A era Digital</title>
+    <tittle>Livro: A era Digital</tittle>
 </head>
 
 <body>
